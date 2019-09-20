@@ -1,5 +1,8 @@
 # tmxt
 
+NOTE:
+This is an fork of the original 'https://github.com/sortiz/tmxt' repo. Only modifications are for easier use with pip.
+
 This tool consists on two scripts:
 * `tmxplore.py`, a script to determine the language codes available inside a particular TMX file by looking to an excerpt or even the whole file.
 * `tmxt.py`, to effectively transform a TMX to a tab-separated text file using the language code list provided in the command
